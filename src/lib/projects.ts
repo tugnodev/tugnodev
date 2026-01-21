@@ -22,14 +22,14 @@ export const project: Project[] = [
     pub: true,
   },
   {
-    name: "Colobane Campus Frontend (private now)",
+    name: "Colobane Campus Frontend",
     repo: "https://github.com/tugnodev/cc-frontend",
     image: "/wallpaper/cc.png",
     desc: "App mobile crossplatform pour informatiser les marches universitaire.",
     pub: true,
   },
   {
-    name: "Colobane Campus Backend (private now)",
+    name: "Colobane Campus Backend",
     repo: "https://github.com/tugnodev/campus-colobane-backend",
     image: "/wallpaper/cc.png",
     desc: "Backend de colobane campus implementer avec l'architechture hexagonale.",

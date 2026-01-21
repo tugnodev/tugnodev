@@ -21,7 +21,7 @@
         >
             {#each project as pro (pro.name)}
                 <div
-                    class="card bg-base-100 shadow-xl image-full before:!opacity-60 hover:before:!opacity-40 transition-all duration-300"
+                    class="card bg-base-100 shadow-xl image-full before:opacity-60! hover:before:opacity-40! transition-all duration-300"
                 >
                     <figure class="h-64 md:h-80">
                         <img
