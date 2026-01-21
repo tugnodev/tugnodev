@@ -14,7 +14,7 @@
 
 <Section>
     <div
-        class="overflow-scroll flex flex-col w-full h-full items-center justify py-10 px-4"
+        class="overflow-scroll flex flex-col w-full h-full items-center justify pt-16 px-4"
     >
         <div class="max-w-6xl mx-auto">
             <div class="text-center mb-12">

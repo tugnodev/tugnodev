@@ -6,7 +6,7 @@
 
 <Section>
     <div
-        class="w-full flex flex-col items-center justify-start gap-8 py-8 md:py-16 px-4"
+        class="w-full flex flex-col items-center justify-start gap-8 xl:pt-10 px-4"
     >
         <div class="text-center max-w-2xl">
             <h1 class="text-3xl md:text-4xl font-bold mb-4">Mes Projets</h1>
