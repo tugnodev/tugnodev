@@ -1,58 +1,53 @@
-# Svelte library
+# Hi there, I'm Racine DIOP 👋
 
-Everything you need to build a Svelte library, powered by [`sv`](https://npmjs.com/package/sv).
+### 🚀 Fullstack Developer & Software Craftsman
+I am a **Software Developer** specialized in designing and building high-performance **ERP systems**. I advocate for clean code and robust architectures, ensuring scalability and reliability in every project.
 
-Read more about creating a library [in the docs](https://svelte.dev/docs/kit/packaging).
+---
 
-## Creating a project
+### 🛠 Technical Ecosystem
 
-If you're seeing this, you've probably already done this step. Congrats!
+**Languages & Core** ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-```sh
-# create a new project in the current directory
-npx sv create
+**Front-end & UI**
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)
 
-# create a new project in my-app
-npx sv create my-app
-```
+**Back-end & APIs**
+![Axum](https://img.shields.io/badge/Axum-333333?style=for-the-badge&logo=rust&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 
-## Developing
+**Mobile & Desktop**
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+**Database & Cache**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-```sh
-npm run dev
+---
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### 🏗 Architecture & Methodologies
+I build systems designed to last, using industry-standard patterns:
+* **Hexagonal Architecture** (Ports & Adapters) for decoupled and testable business logic.
+* **MVC Pattern** for structured and maintainable application flow.
+* **Domain-Driven Design (DDD)** principles for complex ERP systems.
 
-Everything inside `src/lib` is part of your library, everything inside `src/routes` can be used as a showcase or preview app.
+---
 
-## Building
+### 🎯 Current Focus
+* 🦀 Optimizing high-concurrency backends with **Rust** and **Axum**.
+* ⚡ Building type-safe, lightweight web applications with **SvelteKit** and **Hono**.
+* 🖥️ Creating native, secure desktop experiences using **Tauri**.
 
-To build your library:
+---
 
-```sh
-npm pack
-```
+### 📫 Let's Connect
+* 🌐 **Portfolio:** [tugnodev.vercel.app](https://tugnodev.vercel.app)
+* 📧 **Email:** [tugnodev@gmail.com](mailto:tugnodev@gmail.com)
 
-To create a production version of your showcase app:
+---
 
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-
-## Publishing
-
-Go into the `package.json` and give your package the desired name through the `"name"` option. Also consider adding a `"license"` field and point it to a `LICENSE` file which you can create from a template (one popular option is the [MIT license](https://opensource.org/license/mit/)).
-
-To publish your library to [npm](https://www.npmjs.com):
-
-```sh
-npm publish
-```
+### ⚡ Fun Fact
+> "I don't just write code; I craft digital tools. To me, programming is where high-level architecture meets low-level performance."
